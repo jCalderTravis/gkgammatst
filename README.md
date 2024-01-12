@@ -1,1 +1,1 @@
-Small modificatons to version on Matlab File Exchange.
+Gamma test function written by A. Trujillo-Ortiz and R. Hernandez-Walls. Copied from the [Matlab File Exchange](https://uk.mathworks.com/matlabcentral/fileexchange/42645-gkgammatst) to be included as submodule in other projects. See license and comments in code further information.
